@@ -1,4 +1,4 @@
-# rhythm/pitch demo
+# rhythm/pitch demo in SuperCollider
 
 Hear rhythm become pitch before your  ears! :)
 To be able to try out this demo:
